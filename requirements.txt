@@ -1,0 +1,14 @@
+selenium>=4.15.2
+loguru>=0.7.2
+python-dotenv>=1.0.0
+websockets>=12.0
+requests>=2.31.0
+PyExecJS>=1.5.1
+openai>=1.12.0
+pillow>=10.0.0
+aiohttp>=3.9.0
+python-sqlite3>=2.6.0
+asyncio>=3.4.3
+beautifulsoup4>=4.12.0
+dashscope>=1.13.0
+webdriver-manager>=4.0.1
